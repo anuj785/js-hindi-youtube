@@ -1,2 +1,2 @@
-# js-hindi-youtube
+# JS-Hindi-youtube
 javascript code repo
